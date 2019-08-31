@@ -1,6 +1,6 @@
 ## Neural network con arduino ATmega644  
 
-![imagen]("demo%20ejercicio4.gif") 
+![imagen](demo.gif) 
 <img src='https://raw.githubusercontent.com/sandroormeno/sim800_google_navegador/master/circuito.png' width=600>
 
 ### Antecedentes  

@@ -10,6 +10,7 @@ El proceso se resume en la transferencia de Pesos y Sesgos encontrados durante e
 ### Desafíos  
 El principal limitante para la realización de este proceso se encuentran el evitar el desborde del la memoria dinámica (SRAM) del micro controlador con las operaciones (matrices) que requiere la reconstrucción del modelo de redes neuronales.  
 
+![imagen](atmega644.jpg) 
 ### Proceso  
 __Definición de modelo:__ determinar el modelo que mejores resultados se obtenga con los datos de test. Ejemplo:   
 

@@ -2,7 +2,7 @@
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=-N2bvr8qKh4
 " target="_blank"><img src="demo.gif" 
-alt="IMAGE ALT TEXT HERE" width="800" height="600" border="10" /></a>  
+alt="IMAGE ALT TEXT HERE" width="800" height="500" border="10" /></a>  
 
 ### Antecedentes  
 En busca de una metodología para la integración de modelos con redes neuronales en micro controladores y especialmente para  desarrollo con la plataforma de *Arduino*, se elaboraron experiencias con el set de datos de *IRIS*, con el objetivo de determinar la precisión y eficiencia en un _Duemilanove_. En una primera experiencia  se realizó el entrenamiento y testeo  en el micro controlador *ATmega328*; pero luego gracias al aporte de *David Castillo Alvarado*, se implementó el entrenamiento con keras y el testero en el micro controlador.  

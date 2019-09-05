@@ -18,8 +18,8 @@ __Definición de modelo:__ determinar el modelo que mejores resultados se obteng
 
 ```python
 modelo.add(Dense(16, input_dim=15, activation='relu'))	# CAPA[0]
-modelo.add(Dense(16, activation='relu'))    		      # CAPA[1]
-modelo.add(Dense(3, activation='sigmoid'))			    # CAPA[2]
+modelo.add(Dense(16, activation='relu'))    		         # CAPA[1]
+modelo.add(Dense(3, activation='sigmoid'))			          # CAPA[2]
 ```  
 
 __Obtener los pesos y sesgos:__ Luego de realizar el entrenamiento, se pueden obtener los resultados de las constantes (pesos y sesgos) optimizadas con el siguiente código:  
